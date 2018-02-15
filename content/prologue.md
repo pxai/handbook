@@ -1,6 +1,3 @@
 # Intro
 Los ordenadores están presentes más que nunca en nuestras vidas. Es probable que lleves uno en el bolsillo, el cual ahora mismo estará haciendo cosas, o que tengas uno delante, o que te montes en vehículos cuyo funcionamiento dependa en parte de un ordenador o de ciertos programas. No sería raro que incluso lo lleves encima, en tu muñeca incluso en tu ropa. Y en definitiva, muchas de las cosas que ocurren hoy en día están pasando por los circuitos de un ordenador. Pero hay una cosa, que no se debe perder de vista: los ordenadores no son más que máquinas que procesan órdenes, sin inteligencia alguna, por mucho que se hable de smartphones y de inteligencia artificial. Las órdenes que ejecuta un ordenador deben ser dadas por los programadores.
 La programación consiste en escribir código para que un ordenador resuelva problemas. Generalmente se escriben en lenguajes que se asemejan en mayor o menor medida al lenguaje natural que un compilador o intérprete traduce a instrucciones que el ordenador puede ejecutar.
-
-## Enter
-Bla bla bla

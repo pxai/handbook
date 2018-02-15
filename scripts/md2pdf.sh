@@ -17,5 +17,8 @@ pandoc --template=${TEMPL}plantilla-kdp.latex \
     prologue.md \
     00.language.md \
     01.testing.md \
+    02.data-structures.md \
+    03.algorithms.md \
+    04.kung-foo.md \
     references.md \
             --toc
