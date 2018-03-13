@@ -20,5 +20,6 @@ pandoc --template=${TEMPL}plantilla-kdp.latex \
     02.data-structures.md \
     03.algorithms.md \
     04.kung-foo.md \
+    05.rubyway.md \
     references.md \
             --toc
